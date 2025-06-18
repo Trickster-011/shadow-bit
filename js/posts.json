@@ -1,0 +1,14 @@
+[
+  {
+    "id": "articulo1",
+    "titulo": "Detalles ocultos en Bloodborne",
+    "resumen": "Descubre cómo el sonido ambiental influye en la tensión del jugador...",
+    "categorias": ["horror", "secreto", "rpg"]
+  },
+  {
+    "id": "articulo2",
+    "titulo": "Zonas secretas en Super Metroid",
+    "resumen": "Analizamos las áreas ocultas que pocos jugadores conocen.",
+    "categorias": ["retro", "plataformas", "secreto"]
+  }
+]
