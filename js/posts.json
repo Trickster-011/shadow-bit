@@ -1,4 +1,12 @@
 [
+
+  {  
+    "id" : "articulo3",
+    "titulo": "¿Adiós a los millones? El declive del premio de The International",
+    
+    "categorias": ["rpg","rpg"],
+    "resumen" :"¿Vuelve el Battle Pass de Dota 2 en 2025? Descubre cómo la decisión de Valve de eliminar el pase de batalla afectó el premio millonario de The International y qué impacto tendría su posible regreso este año. Análisis profundo, cifras reales y los rumores más fuertes de la escena competitiva."
+  },
   {
     "id": "articulo1",
     "titulo": "Detalles ocultos en Bloodborne",
