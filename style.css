@@ -40,6 +40,16 @@ header {
   gap: 10px;
   margin-bottom: 10px;
 }
+.post {
+  max-width: 100%;
+  width: 80%;
+  padding: 20px 40px;
+  margin: 0 auto;
+  background-color: transparent;
+  color: #eee;
+  font-size: 1.3rem;
+  line-height: 1.7;
+}
 
 .logo-img {
   height: 80px;
@@ -93,13 +103,7 @@ nav a:hover {
   text-shadow: 0 0 5px var(--color-primary);
 }
 
-main {
-  padding: 40px 20px;
-  max-width: 1000px;
-  margin: 0 auto;
-  flex: 1;
-  overflow-x: hidden;
-}
+
 
 .post-preview {
   margin-left: 10px;
@@ -209,12 +213,13 @@ footer {
   }
 
 main {
-  padding: 40px 40px;  /* más espacio lateral */
-  max-width: 1000px;
+  padding: 40px 5vw;
+  max-width: 1600px;
+  width: 100%;
   margin: 0 auto;
   flex: 1;
-  overflow-x: hidden;
 }
+
 
  .post-preview {
   background-color: #191919;
@@ -236,4 +241,28 @@ main {
   .top-bar {
     justify-content: center;
   }
+}
+.post table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #1b1b1b;
+  border: 1px solid #00ffcc;
+}
+
+.post table th,
+.post table td {
+  border: 1px solid #00ffcc;
+  padding: 12px;
+  text-align: center;
+  color: #eee;
+  font-size: 0.9em;
+}
+
+.post table th {
+  background-color: #00ffcc;
+  color: #0a0a0a;
+  font-weight: bold;
+  font-family: 'Orbitron', sans-serif;
 }
