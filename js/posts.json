@@ -7,12 +7,18 @@
     "categorias": ["rpg","rpg"],
     "resumen" :"¿Vuelve el Battle Pass de Dota 2 en 2025? Descubre cómo la decisión de Valve de eliminar el pase de batalla afectó el premio millonario de The International y qué impacto tendría su posible regreso este año. Análisis profundo, cifras reales y los rumores más fuertes de la escena competitiva."
   },
-  {
+  {"id": "articulo4",
+    "titulo": "World of Warcraft: nostalgia, decepción y el hechizo eterno",
+    "resumen": "Por qué seguimos volviendo a World of Warcraft? Este artículo analiza el declive del contenido en Retail, el auge de WoW Classic, la nostalgia compartida y cómo la compra de Microsoft puede cambiar el futuro de Azeroth.",
+    "categorias": ["rpg"]
+},
+    {
     "id": "articulo1",
     "titulo": "Detalles ocultos en Bloodborne",
     "resumen": "Descubre cómo el sonido ambiental influye en la tensión del jugador...",
     "categorias": ["horror", "secreto", "rpg"]
   },
+  
   {
     "id": "articulo2",
     "titulo": "Zonas secretas en Super Metroid",
