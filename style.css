@@ -266,3 +266,39 @@ main {
   font-weight: bold;
   font-family: 'Orbitron', sans-serif;
 }
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.table-responsive table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 500px;
+}
+
+.table-responsive th,
+.table-responsive td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+  white-space: nowrap;
+  background-color: #000000;
+}
+
+.table-responsive thead {
+  background-color: #000000;
+}
+
+@media screen and (max-width: 600px) {
+  .table-responsive table {
+    min-width: unset;
+  }
+
+  .table-responsive th,
+  .table-responsive td {
+    padding: 8px;
+    font-size: 14px;
+  }
+}
