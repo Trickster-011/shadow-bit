@@ -37,20 +37,14 @@
     ]
   },
   {
-    "id": "articulo5",
-    "titulo": "Curiosidades sobre rdd2",
-    "resumen": "Uno de los denominados mejores juegos de la historia y las curisiosidades que le hacen merecer este titulo",
-    "categorias": [
-      "GOTY",
-      "GAME"
-    ]
-  },
-  {
-    "id": "articulo6",
-    "titulo": "Rdd2 y las razones por la cual es de los mejores juegos de la historia",
-    "resumen": "Rdd2 y las curiosidades que lo hacen uno de los mejores juego de la historia",
-    "categorias": [
-      "RPG"
-    ]
-  }
+  "id": "articulo5",
+  "titulo": "Red Dead Redemption 2 y las razones por las cuales es uno de los mejores juegos de la historia",
+  "resumen": "Descubre por qué Red Dead Redemption 2 es considerado una obra maestra. Detalles técnicos, narrativa, realismo y momentos inolvidables que marcan la diferencia.",
+  "categorias": ["aventura", "open world", "western"]
+},
+ { "id": "articulo6",
+  "titulo": "GTA V: un antes y un después en la industria del gaming",
+  "resumen": "Cómo GTA V transformó la narrativa, el multijugador y la escala técnica de los videojuegos modernos. Una revolución aún vigente.",
+  "categorias": ["sandbox", "acción", "histórico"]
+}
 ]
